@@ -3,18 +3,8 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-/[Aa]ssets/Audio*
-/[Aa]ssets/EResource*
-/[Aa]ssets/Materials*
-/[Aa]ssets/Prefabs*
 /[Aa]ssets/ProCore*
-/[Aa]ssets/QualitySettingsMenu*
-/[Aa]ssets/Samples*
-/[Aa]ssets/Prefabs*
 /[Aa]ssets/SampleScenes*
-/[Aa]ssets/Scenes*
-/[Aa]ssets/Standard Assets*
-/[Aa]ssets/ExampleAssets*
 /Library*
 /Temp*
 /TextMesh Pro*
