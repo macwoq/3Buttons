@@ -52,7 +52,7 @@ public class popUpButton : MonoBehaviour
 
     IEnumerator PopActive()
     {
-        yield return new WaitForSeconds(.5f);
+        yield return new WaitForSeconds(1f);
         if (popUp.activeInHierarchy)
         {
             popUp.SetActive(false);
